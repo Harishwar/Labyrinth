@@ -1,4 +1,4 @@
 Labyrinth
 =========
 
-Windows Phone Application - Simple Labyrinth Game
+Windows Phone Application - Simple Labyrinth Game using Farseer Physics
